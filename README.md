@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil 😀
+# Seja bem vindo ao meu perfil 😄
 ~_________________________________________~
 ## Introdução
 Olá meu nome é **Guilherme**, sou um estudante do Ensino Médio que se interessou por programação, estou aprendendo as seguintes linguagens:
