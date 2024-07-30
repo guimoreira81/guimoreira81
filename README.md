@@ -15,6 +15,7 @@ Olá meu nome é **Guilherme**, e estou aprendendo as seguintes linguagens:
 > você também pode acessar o meu instagram [@guimo81](instagram.com).
 
 ## Descrição das linguagens
+![codigo em tela de computador](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
 ### C++
 - Linguagem de programação de alta tipagem e de baixo nível de abstração, que permite que o preogramador maneje a memória;
 ### HTML
