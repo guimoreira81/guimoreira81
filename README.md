@@ -1,7 +1,7 @@
 # Seja bem vindo ao meu perfil 😀
 ~_________________________________________~
 ## Introdução
-Olá meu nome é **Guilherme**, e estou aprendendo as seguintes linguagens:
+Olá meu nome é **Guilherme**, sou um estudante do Ensino Médio que se interessou por programação, estou aprendendo as seguintes linguagens:
 - **C++**
 ```//Geralmente uso para fazer projetos pessoais```
 - **HTML** *(HyperText Markup Language)*
