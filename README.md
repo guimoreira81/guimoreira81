@@ -11,13 +11,13 @@ Olá meu nome é **Guilherme**, sou um estudante do Ensino Médio que se interes
 - **Javascript**
 ```//Usar em conjunto com HTML e CSS```
 
->Irei usar o meu GitHub para compartilhar meus projetos,
-> você também pode acessar o meu instagram [@guimo81](instagram.com).
+>Irei usar o meu GitHub para compartilhar meus projetos,  
+> você também pode acessar o meu instagram [@guimo81](https://www.instagram.com/guimo81/).
 
 ## Descrição das linguagens
 ![codigo em tela de computador](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
 ### C++
-- Linguagem de programação de alta tipagem e de baixo nível de abstração, que permite que o preogramador maneje a memória;
+- Linguagem de programação de alta tipagem e de baixo nível de abstração, que permite que o programador maneje a memória;
 ### HTML
 - Linguagem de marcação usada para criação de páginas renderizadas pelo navegador;
 ### CSS
