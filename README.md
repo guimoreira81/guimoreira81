@@ -11,8 +11,7 @@ Olá meu nome é **Guilherme**, sou um estudante do Ensino Médio que se interes
 - **Javascript**
 ```//Usar em conjunto com HTML e CSS```
 
->Irei usar o meu GitHub para compartilhar meus projetos,  
-> você também pode acessar o meu instagram [@guimo81](https://www.instagram.com/guimo81/).
+>Irei usar o meu GitHub para compartilhar meus projetos
 
 ## Descrição das linguagens
 ![codigo em tela de computador](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
