@@ -3,7 +3,7 @@
 ## Introduction
 Hello! My name is Guilherme, brazilian high school student and programming enthusiast, using my GitHub to share personal projects.
 
-## Habilities
+## Skills
 
 ### Idioms
 - **Native Portuguese**
