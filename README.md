@@ -11,6 +11,7 @@ Hello! My name is Guilherme, brazilian high school student and programming enthu
 
 ### Languages
 - **HTML CSS and Javascript**
+- **Typescript**
 - **Python**
 - **Basic C++**
 
