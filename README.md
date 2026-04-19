@@ -6,20 +6,19 @@ Hello! My name is Guilherme, brazilian high school student and programming enthu
 ## Skills
 
 ### Idioms
-- **Native Portuguese**
-- **Advanced English (C1)**
+- **Native Portuguese**;
+- **Advanced English (C1)**.
 
 ### Languages
-- **HTML CSS and Javascript**
-- **Typescript**
-- **Python**
-- **Basic C++**
+- **HTML CSS and Javascript**;
+- **Typescript** (Still Learning);
+- **Python**.
 
 ### Tools
-- **VS Code**
-- **Git**
-- **Node JS**
-- **NPM**
+- **VS Code**;
+- **Git**;
+- **Node JS**;
+- **NPM**;
 
 <br>
-<p align="center"> December 2025 </p>
+<p align="center"> April 2026 </p>
