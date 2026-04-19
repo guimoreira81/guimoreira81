@@ -18,7 +18,7 @@ Hello! My name is Guilherme, brazilian high school student and programming enthu
 - **VS Code**;
 - **Git**;
 - **Node JS**;
-- **NPM**;
+- **NPM**.
 
 <br>
 <p align="center"> April 2026 </p>
