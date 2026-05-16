@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my GitHub 😄 </h1>
 
 ## Introduction
-Hello! My name is Guilherme, brazilian high school student and programming enthusiast, using my GitHub to share personal projects.
+Hello! My name is Guilherme, a brazilian high school student and programming enthusiast, using my GitHub to share personal projects.
 
 ## Skills
 
@@ -10,8 +10,9 @@ Hello! My name is Guilherme, brazilian high school student and programming enthu
 - **Advanced English (C1)**.
 
 ### Languages
-- **HTML CSS and Javascript**;
-- **Typescript** (Still Learning);
+- **HTML and CSS**;
+- **Javascript**;
+- **Typescript**;
 - **Python**.
 
 ### Tools
@@ -21,4 +22,4 @@ Hello! My name is Guilherme, brazilian high school student and programming enthu
 - **NPM**.
 
 <br>
-<p align="center"> April 2026 </p>
+<p align="center"> May 2026 </p>
